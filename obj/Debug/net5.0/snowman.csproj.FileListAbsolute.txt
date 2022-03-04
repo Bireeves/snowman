@@ -1,0 +1,16 @@
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\bin\Debug\net5.0\snowman.exe
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\bin\Debug\net5.0\snowman.deps.json
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\bin\Debug\net5.0\snowman.runtimeconfig.json
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\bin\Debug\net5.0\snowman.runtimeconfig.dev.json
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\bin\Debug\net5.0\snowman.dll
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\bin\Debug\net5.0\ref\snowman.dll
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\bin\Debug\net5.0\snowman.pdb
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.csproj.AssemblyReference.cache
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.AssemblyInfoInputs.cache
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.AssemblyInfo.cs
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.csproj.CoreCompileInputs.cache
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.dll
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\ref\snowman.dll
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.pdb
+C:\Users\Beenj\Source\Repos\MIS221-TA\Spring2022\snowman\obj\Debug\net5.0\snowman.genruntimeconfig.cache

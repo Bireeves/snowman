@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqVimyisDa8XHSL5Uee2VeAcOpU7vRj3W97lKCn/8qxZWORqikkPaMQIYBdJYW/SpUhGWWMdsTRfszKasMmmsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Beenj\\Source\\Repos\\MIS221-TA\\Spring2022\\snowman\\snowman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beenj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
